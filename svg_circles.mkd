@@ -1,3 +1,5 @@
 # SVG circle with light stroke
 
-![SVG circle with light stroke](svg_circle.svg)
+![SVG circle, light stroke, empty](svg_circle_light_stroke_empty.svg)
+
+![SVG circle, medium stroke, empty](svg_circle_medium_stroke_empty.svg)
