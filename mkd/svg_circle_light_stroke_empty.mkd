@@ -1,0 +1,3 @@
+# SVG circle, light stroke, empty
+
+![circle, light stroke, empty](svg_circle_light_stroke_empty.svg)
