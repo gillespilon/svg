@@ -8,10 +8,6 @@
 <text x="50" y="125" style="font-family: monospace; font-size :10">
     <tspan x="50" style="text-anchor: middle">ABCDEFG ABCDEFG</tspan><tspan x="50" dy="10" style="text-anchor: middle">ABCDEFG ABCDEFG</tspan>
 </text>
-<!--circle with light stroke-->
-<circle cx="50" cy="225" r="10" style="stroke: #000000; fill: #ffffff; fill-opacity: 0.0"/>
-<!--circle with dark stroke-->
-<circle cx="50" cy="300" r="10" style="stroke: #000000; stroke-width: 2; fill: #ffffff; fill-opacity: 0.0"/>
 <!--diamond with empty-->
 <polygon points="0,375 50,350 100,375 50,400" style="stroke: #000000; fill: #ffffff; fill-opacity: 0.0"/>
 <!--diamond with circle with dark stroke-->
