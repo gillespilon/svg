@@ -1,0 +1,3 @@
+# SVG circle with light stroke
+
+![SVG circle with light stroke](svg_circle.svg)
