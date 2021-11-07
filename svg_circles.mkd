@@ -1,5 +1,9 @@
 # SVG circles
 
+This is a circle with a light stroke and empty
+
 <img src="svg_circle_light_stroke_empty.svg" alt="SVG circle, light stroke, empty">
+
+This is a circle with a medium stroke and empty
 
 <img src="svg_circle_medium_stroke_empty.svg" alt="SVG circle, medium stroke, empty">
