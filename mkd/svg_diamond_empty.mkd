@@ -1,0 +1,3 @@
+% SVG diamond, empty
+
+![SVG diamond, empty](../svg/svg_diamond_empty.svg)
