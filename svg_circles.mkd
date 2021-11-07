@@ -1,5 +1,5 @@
-# SVG circle with light stroke
+# SVG circles
 
-![SVG circle, light stroke, empty](svg_circle_light_stroke_empty.svg)
+<img src="svg_circle_light_stroke_empty.svg" alt="SVG circle, light stroke, empty">
 
-![SVG circle, medium stroke, empty](svg_circle_medium_stroke_empty.svg)
+<img src="svg_circle_medium_stroke_empty.svg" alt="SVG circle, medium stroke, empty">
