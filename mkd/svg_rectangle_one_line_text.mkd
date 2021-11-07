@@ -1,0 +1,3 @@
+# SVG rectangle, one line text
+
+![rectangle, one line text](../svg/svg_rectangle_one_line_text.svg)
