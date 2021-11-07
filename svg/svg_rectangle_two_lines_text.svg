@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http:www.w3.org/1999/xlink">
+<!--rectangle with two lines of centred text-->
+<rect x="0" y="0" height="50" width="100" style="stroke:#000000; fill:#ffffff; fill-opacity: 0.0"/>
+<text x="50" y="25" style="font-family: monospace; font-size :10">
+    <tspan x="50" style="text-anchor: middle">ABCDEFG ABCDEFG</tspan><tspan x="50" dy="10" style="text-anchor: middle">ABCDEFG ABCDEFG</tspan>
+</text>
+</svg>
