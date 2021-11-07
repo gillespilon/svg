@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http:www.w3.org/1999/xlink">
 <!--circle with dark stroke-->
-<circle cx="50" cy="300" r="10" style="stroke: #000000; stroke-width: 2; fill: #ffffff; fill-opacity: 0.0"/>
+<circle cx="50" cy="25" r="10" style="stroke: #000000; stroke-width: 2; fill: #ffffff; fill-opacity: 0.0"/>
 </svg>
 
