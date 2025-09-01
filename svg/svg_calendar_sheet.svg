@@ -1,0 +1,73 @@
+<svg width="8.5in" height="11in" viewBox="0 0 8.5 11" xmlns="http://www.w3.org/2000/svg">
+  
+  <rect x="0.25" y="0.25" width="8" height="10.5" fill="none" stroke="black" stroke-width="0.01"/>
+
+  <defs>
+    <style>
+      .grid-box {
+        fill: none;
+        stroke: black;
+        stroke-width: 0.005;
+      }
+    </style>
+  </defs>
+
+  <g transform="translate(0.25, 0.25)">
+    <g id="row_0">
+      <rect class="grid-box" x="0" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="1.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="2.666666" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="4" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="5.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="6.666666" y="0" width="1.333333" height="1.5"/>
+    </g>
+    <g id="row_1" transform="translate(0, 1.5)">
+      <rect class="grid-box" x="0" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="1.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="2.666666" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="4" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="5.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="6.666666" y="0" width="1.333333" height="1.5"/>
+    </g>
+    <g id="row_2" transform="translate(0, 3.0)">
+      <rect class="grid-box" x="0" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="1.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="2.666666" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="4" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="5.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="6.666666" y="0" width="1.333333" height="1.5"/>
+    </g>
+    <g id="row_3" transform="translate(0, 4.5)">
+      <rect class="grid-box" x="0" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="1.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="2.666666" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="4" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="5.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="6.666666" y="0" width="1.333333" height="1.5"/>
+    </g>
+    <g id="row_4" transform="translate(0, 6.0)">
+      <rect class="grid-box" x="0" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="1.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="2.666666" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="4" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="5.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="6.666666" y="0" width="1.333333" height="1.5"/>
+    </g>
+    <g id="row_5" transform="translate(0, 7.5)">
+      <rect class="grid-box" x="0" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="1.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="2.666666" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="4" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="5.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="6.666666" y="0" width="1.333333" height="1.5"/>
+    </g>
+    <g id="row_6" transform="translate(0, 9.0)">
+      <rect class="grid-box" x="0" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="1.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="2.666666" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="4" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="5.333333" y="0" width="1.333333" height="1.5"/>
+      <rect class="grid-box" x="6.666666" y="0" width="1.333333" height="1.5"/>
+    </g>
+  </g>
+</svg>
